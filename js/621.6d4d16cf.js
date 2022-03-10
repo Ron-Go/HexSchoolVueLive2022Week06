@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkweek6"]=self["webpackChunkweek6"]||[]).push([[621],{621:function(e,n,t){t.r(n),t.d(n,{default:function(){return k}});var r=t(252);const u=(0,r._)("h3",{class:"text-center"},"這是前台",-1),c=[u];function s(e,n,t,u,s,a){return(0,r.wg)(),(0,r.iD)("div",null,c)}var a={},f=t(744);const i=(0,f.Z)(a,[["render",s]]);var k=i}}]);
